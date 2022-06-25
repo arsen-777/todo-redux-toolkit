@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 28%;
+  border-bottom: 2px solid silver;
+}
+
+.container div {
+  cursor: pointer;
+  font-style: italic;
+  font-size: 18px;
+  padding: 6px 0;
+}
+
+.act {
+  /* text-decoration: underline;
+  text-decoration-line: line-through;
+  text-decoration-color: blue; */
+}
